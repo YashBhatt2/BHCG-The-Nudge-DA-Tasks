@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 ### TASK- 1:
-once the data set is fixed, with the target variable given for some part of the data, I will implement the Gaussian naive bayes algorithm. ( Right now i dont have i dont have data to train the model on ).
+Implements a Gaussian Naive Bayes model to predict water potability based on chemical features. The pipeline includes median-based null handling and exports results directly to a SQLite database.
 
 ### TASK - 2:
 As per the task, I made a commented program that replaces all NaNs in the salary column with the department-wise median.
